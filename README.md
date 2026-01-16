@@ -40,3 +40,4 @@ Toutes les données sensibles (tokens, informations personnelles) sont chiffrée
 
 ---
 *Projet développé avec passion via Termux.*
+Build trigger
